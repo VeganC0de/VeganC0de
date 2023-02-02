@@ -13,7 +13,7 @@
 
 - ⚡ |  Full Stack Developer Jr
 
-- 🌱 |  Current student of Software Engineering at [UBA] (https://www.uba.ar)
+- 🌱 |  Current student of Software Engineering at (UBA) [https://www.uba.ar]
 
 - 🌱 |  How to reach me **danibobadilla00@gmail.com**
 
@@ -25,7 +25,6 @@
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" heigth="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" heigth="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="DSjs" alt="DSjs" width="40" heigth="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="DSjs" alt="DSjs" width="40" heigth="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" heigth="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" heigth="40"/>&nbsp;
@@ -50,8 +49,12 @@
 
 
 <div id="redes" align="center">
-  <h1 align= "center">  |🌲 [Linkedin] (https://www.linkedin.com/in/daniel-bobadilla-704831219/) 🌲 | 
+ <p> |🌲<h1 align= "center">   (Linkedin) [https://www.linkedin.com/in/daniel-bobadilla-704831219/]
+  
   </h1>
+   🌲 | 
+   </p>
+   
 </div>
 
 
