@@ -62,12 +62,15 @@
 
 
 ### My stats :
+<div id="stats" align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VeganC0de&theme=dark)](https://git.io/streak-stats)
 
 ![VeganC0de's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeganC0de&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeganC0de&layout=compact)](https://github.com/VeganC0de/github-readme-stats)
+
+</div>
 
 
 ---
