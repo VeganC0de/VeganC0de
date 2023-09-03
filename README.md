@@ -56,7 +56,7 @@
 ---
 
 
-### My stats :
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div id="stats" align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VeganC0de&theme=dark)](https://git.io/streak-stats)
