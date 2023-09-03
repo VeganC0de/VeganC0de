@@ -21,6 +21,7 @@
 
 -  💬 | If you have any questions, **just ask me**.
 
+
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></h2>
   
 - <h3> programming & markup languages </h3>
@@ -64,6 +65,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeganC0de&layout=compact)](https://github.com/VeganC0de/github-readme-stats)
 
 </div>
+
+-  **I'm a Night 🦉** 
 
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
