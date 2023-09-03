@@ -1,10 +1,5 @@
-<div id="header"align="center">
-    <img src="https://media.giphy.com/media/WijZyAuUL3nOM/giphy.gif" width="200" />
-    <h1 align="center">Ayo!, I'm Daniel AKA Tesla/VeganC0de
-    </h1>
-    <h3 align="center">Texto here :D
-    </h3>
-</div>
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)]
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm TeslaDev</h1>
 
 ---
 
