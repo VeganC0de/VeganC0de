@@ -19,6 +19,8 @@
 
 -  ⚡ |  I'm currently learning  *react.js, blockchain, web solidity, C++, .NET, Devops,C#*
 
+-  💬 | I’m looking to collaborate on your open source projects
+
 -  💬 | If you have any questions, **just ask me**.
 
 -  **I'm a Night 🦉** 
