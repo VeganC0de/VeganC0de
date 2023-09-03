@@ -11,9 +11,13 @@
 
 <h2> <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> About Me </h2>
 
-- 👨‍💻 Currently working as a **front-end developer**
-- 🤓 Seeking to become a **full-stack developer**
-- 🎓 I'm also pursuing a bachelors degree in **software engineering**
+-  ⚡ |  **Full Stack Developer Jr**
+
+-  🌱 |  Current student of **Software Engineering** at (UBA) [https://www.uba.ar]
+
+-  🌱 |  How to reach me **danibobadilla00@gmail.com**
+
+-  ⚡ |  I'm currently learning  *react.js, blockchain, web solidity, C++, .NET, Devops,C#*
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></h2>
   
