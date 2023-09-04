@@ -5,6 +5,12 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%238344da&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Software+Engineer+Student;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div> 
 
+<div id="stats" align="center">
+        
+[![Discord Presence](https://lanyard.cnrad.dev/api/534677319072350208?theme=light&bg=222224&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=%20Software%20Engineer.%0D%0ANo%20matter%20when%20you%20read%20this,%20I'm%20coding.%20Vegan%20for%20the%20animals.%20^^
+)](https://discord.com/users/534677319072350208)
+</div>
+
 ---
 
 <div>
@@ -76,7 +82,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeganC0de&layout=compact)](https://github.com/VeganC0de/github-readme-stats)
 
 </div>
-
 
 
 
