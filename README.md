@@ -72,13 +72,13 @@
 
 </div>
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 
 
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+  <img src="https://camo.githubusercontent.com/9b0a69e63ea560a6a78a52ae31ab42eae7f4defe6471b7151b44dcc5b3e187b2/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d313931393730266865696768743d3132302673656374696f6e3d686561646572" alt="Header" width="100%" align = "left"/>
   </a>
 
 
