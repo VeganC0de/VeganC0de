@@ -20,7 +20,7 @@
 <img align="right" width="400" height="850" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
 
 
-<h2> <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> About Me </h2>
+<h2> <img src="https://media.giphy.com/media/gMEtdkSAGTHoLvOCq1/giphy.gif" width ="20"> About Me </h2>
 
 -  ⚡ |  **Full Stack Developer Jr**
 
@@ -30,7 +30,7 @@
 
 -  ⚡ | If you have any questions, **just ask me**.
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></h2>
+<h2><img src="https://media.giphy.com/media/gMEtdkSAGTHoLvOCq1/giphy.gif" width ="20"><b>    Skills</b></h2>
   
 - <h3> programming & markup languages </h3>
   
@@ -70,7 +70,7 @@
     <img src = "https://img.shields.io/badge/MariaDB-f7df1e.svg?style=for-the-badge&logo=MariaDB&logoColor=black" />
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/17mNCcKU1mJlrbXodo/giphy.gif" width="17"><b> Github Stats </b>
 <div id="stats" align="center">
 
 
