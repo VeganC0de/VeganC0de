@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
+![MasterHead](https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Tesla </h1>
 
 <div id="stats" align="center">
@@ -24,9 +24,9 @@
 
 -  ⚡ |  **Full Stack Developer Jr**
 
--  🌱 |  Current student of **Software Engineering** at (UBA) [https://www.uba.ar]
+-  🏷️ |  Current student of **Software Engineering** at (UBA) [https://www.uba.ar]
 
--  🌱 |  How to reach me **danibobadilla00@gmail.com**
+-  🏷️ |  How to reach me **danibobadilla00@gmail.com**
 
 -  ⚡ | If you have any questions, **just ask me**.
 
