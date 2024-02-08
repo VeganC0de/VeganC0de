@@ -17,7 +17,7 @@
 
 <div>
 <a href="https://dev.to/te5la_dev"><img src = "https://img.shields.io/badge/dev.to-f7df1e?style=for-the-badge&logo=dev.to&logoColor=black" /></a> <a href="https://www.linkedin.com/in/daniel-bobadilla-/"> <img src = "https://img.shields.io/badge/LinkedIn-f7df1e.svg?style=for-the-badge&logo=LinkedIn&logoColor=black" /></a> <img src = "https://img.shields.io/badge/Discord-f7df1e.svg?style=for-the-badge&logo=Discord&logoColor=black" /> 
-<img align="right" width="400" height="850" alt="mybanner" src="https://i.imgur.com/aubMFhO.png"/>
+<img align="right" width="450" height="940" alt="mybanner" src="https://i.imgur.com/aubMFhO.png"/>
 
 
 <h2> <img src="https://media.giphy.com/media/gMEtdkSAGTHoLvOCq1/giphy.gif" width ="20"> About Me </h2>
