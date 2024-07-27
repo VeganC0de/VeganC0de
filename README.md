@@ -11,9 +11,9 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%23f1c232&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Software+Engineer+Student;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div> 
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
----
 
 <div>
 <a href="https://dev.to/te5la_dev"><img src = "https://img.shields.io/badge/dev.to-f7df1e?style=for-the-badge&logo=dev.to&logoColor=black" /></a> <a href="https://www.linkedin.com/in/daniel-bobadilla-/"> <img src = "https://img.shields.io/badge/LinkedIn-f7df1e.svg?style=for-the-badge&logo=LinkedIn&logoColor=black" /></a> <img src = "https://img.shields.io/badge/Discord-f7df1e.svg?style=for-the-badge&logo=Discord&logoColor=black" /> 
@@ -71,6 +71,7 @@
 
 
 ## <img src="https://media.giphy.com/media/17mNCcKU1mJlrbXodo/giphy.gif" width="17"><b> Github Stats </b>
+
 <div id="stats" align="center">
 
 
