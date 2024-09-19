@@ -42,8 +42,8 @@
       alt="java"/> 
   
   - <h4> currently learning </h4>
-    <img src = "https://img.shields.io/badge/TypeScript-f7df1e?style=for-the-badge&logo=typescript&logoColor=black" alt = "ts" />
-    <img src = "https://img.shields.io/badge/React-f7df1e.svg?style=for-the-badge&logo=React&logoColor=black" />
+    <img src = "https://img.shields.io/badge/shell_script-f7df1e?style=for-the-badge&logo=gnu-bash&logoColor=black"/>
+    <img src = "https://img.shields.io/badge/c++-f7df1e?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
     
   
 - <h3>  frameworks & libraries </h3>
@@ -51,6 +51,8 @@
   <img src = "https://img.shields.io/badge/Tailwind_CSS-f7df1e?style=for-the-badge&logo=tailwind-css&logoColor=black" alt = "tailwind" />
   <img src = "https://img.shields.io/badge/Spring%20Boot-f7df1e.svg?style=for-the-badge&logo=Spring-Boot&logoColor=black" />
   <img src = "https://img.shields.io/badge/Angular-f7df1e.svg?style=for-the-badge&logo=Angular&logoColor=black" />
+  <img src = "https://img.shields.io/badge/TypeScript-f7df1e?style=for-the-badge&logo=typescript&logoColor=black" alt = "ts" />
+  <img src = "https://img.shields.io/badge/React-f7df1e.svg?style=for-the-badge&logo=React&logoColor=black" />
   
 - <h3> tools </h3>
     <img src = "https://img.shields.io/badge/figma-f7df1e?style=for-the-badge&logo=figma&logoColor=black" alt = "figma" />
