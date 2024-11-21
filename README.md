@@ -26,7 +26,7 @@
 
 -  🏷️ |  Current student of **Software Engineering** at (UBA) [https://www.fi.uba.ar]
 
--  🏷️ |  My website:  **https://te5ladev.com**
+-  🏷️ |  My website:  **https://tesladev.xyz**
 
 -  ⚡ | If you have any questions, **just ask me**.
 
